@@ -1,2 +1,1 @@
-# pizzawubz-menu
-Menu interactif 
+suprime 
